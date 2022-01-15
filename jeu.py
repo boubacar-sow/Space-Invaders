@@ -1,5 +1,6 @@
 """
 @authors: Boubacar Sow, Saleh Hassan Salah
+Date: Mars-Avril 2021
 
 """
 import json #Pour la gestion des scores
